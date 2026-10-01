@@ -1,0 +1,70 @@
+[
+  {
+    "variant": "before",
+    "theme": "light",
+    "railScroll": 1463,
+    "railClient": 1376,
+    "worstCard": {
+      "t": "Pipelines",
+      "client": 330,
+      "scroll": 418
+    },
+    "noteText": "ingest/normalize/enrich/dedupe/partition/compact/publish/verify",
+    "noteClientH": 21,
+    "noteScrollW": 402,
+    "noteClientW": 298,
+    "docScroll": 1495,
+    "innerWidth": 1440
+  },
+  {
+    "variant": "before",
+    "theme": "dark",
+    "railScroll": 1463,
+    "railClient": 1376,
+    "worstCard": {
+      "t": "Pipelines",
+      "client": 330,
+      "scroll": 418
+    },
+    "noteText": "ingest/normalize/enrich/dedupe/partition/compact/publish/verify",
+    "noteClientH": 21,
+    "noteScrollW": 402,
+    "noteClientW": 298,
+    "docScroll": 1495,
+    "innerWidth": 1440
+  },
+  {
+    "variant": "after",
+    "theme": "light",
+    "railScroll": 1376,
+    "railClient": 1376,
+    "worstCard": {
+      "t": "Edge",
+      "client": 330,
+      "scroll": 330
+    },
+    "noteText": "ingest/normalize/enrich/dedupe/partition/compact/publish/verify",
+    "noteClientH": 42,
+    "noteScrollW": 298,
+    "noteClientW": 298,
+    "docScroll": 1440,
+    "innerWidth": 1440
+  },
+  {
+    "variant": "after",
+    "theme": "dark",
+    "railScroll": 1376,
+    "railClient": 1376,
+    "worstCard": {
+      "t": "Edge",
+      "client": 330,
+      "scroll": 330
+    },
+    "noteText": "ingest/normalize/enrich/dedupe/partition/compact/publish/verify",
+    "noteClientH": 42,
+    "noteScrollW": 298,
+    "noteClientW": 298,
+    "docScroll": 1440,
+    "innerWidth": 1440
+  }
+]
