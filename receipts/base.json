@@ -1,0 +1,362 @@
+[
+  {
+    "fixture": "short-3lane",
+    "build": "base",
+    "validate": "pass",
+    "readerFit": null,
+    "viewBox": "768 528",
+    "visualCheck": "fail",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 1073,
+        "innerHeight": 900,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1346,
+        "readerWidth": 1376,
+        "deadWidthPct": 2
+      },
+      "1600x1000": {
+        "scrollHeight": 1193,
+        "innerHeight": 1000,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "1920x1080": {
+        "scrollHeight": 1193,
+        "innerHeight": 1080,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "2048x1320": {
+        "scrollHeight": 1320,
+        "innerHeight": 1320,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1390,
+        "readerWidth": 1440,
+        "deadWidthPct": 3
+      }
+    },
+    "scrollHeight": 1073,
+    "innerHeight": 900,
+    "disposition": "unexpected-overflow",
+    "minTextPx": 11,
+    "requiredTextPx": 6,
+    "deadWidthPct": 2
+  },
+  {
+    "fixture": "tall-6lane",
+    "build": "base",
+    "validate": "pass",
+    "readerFit": null,
+    "viewBox": "768 900",
+    "visualCheck": "fail",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 1725,
+        "innerHeight": 900,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1346,
+        "readerWidth": 1376,
+        "deadWidthPct": 2
+      },
+      "1600x1000": {
+        "scrollHeight": 1876,
+        "innerHeight": 1000,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "1920x1080": {
+        "scrollHeight": 1876,
+        "innerHeight": 1080,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "2048x1320": {
+        "scrollHeight": 1887,
+        "innerHeight": 1320,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1390,
+        "readerWidth": 1440,
+        "deadWidthPct": 3
+      }
+    },
+    "scrollHeight": 1725,
+    "innerHeight": 900,
+    "disposition": "unexpected-overflow",
+    "minTextPx": 11,
+    "requiredTextPx": 6,
+    "deadWidthPct": 2
+  },
+  {
+    "fixture": "tall-6lane-cards",
+    "build": "base",
+    "validate": "pass",
+    "readerFit": null,
+    "viewBox": "768 900",
+    "visualCheck": "fail",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 1837,
+        "innerHeight": 900,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1346,
+        "readerWidth": 1376,
+        "deadWidthPct": 2
+      },
+      "1600x1000": {
+        "scrollHeight": 1988,
+        "innerHeight": 1000,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "1920x1080": {
+        "scrollHeight": 1988,
+        "innerHeight": 1080,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "2048x1320": {
+        "scrollHeight": 2002,
+        "innerHeight": 1320,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1390,
+        "readerWidth": 1440,
+        "deadWidthPct": 3
+      }
+    },
+    "scrollHeight": 1837,
+    "innerHeight": 900,
+    "disposition": "unexpected-overflow",
+    "minTextPx": 11,
+    "requiredTextPx": 6,
+    "deadWidthPct": 2
+  },
+  {
+    "fixture": "tall-10lane",
+    "build": "base",
+    "validate": "pass",
+    "readerFit": null,
+    "viewBox": "768 1396",
+    "visualCheck": "fail",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 2595,
+        "innerHeight": 900,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1346,
+        "readerWidth": 1376,
+        "deadWidthPct": 2
+      },
+      "1600x1000": {
+        "scrollHeight": 2787,
+        "innerHeight": 1000,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "1920x1080": {
+        "scrollHeight": 2787,
+        "innerHeight": 1080,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "2048x1320": {
+        "scrollHeight": 2785,
+        "innerHeight": 1320,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1390,
+        "readerWidth": 1440,
+        "deadWidthPct": 3
+      }
+    },
+    "scrollHeight": 2595,
+    "innerHeight": 900,
+    "disposition": "unexpected-overflow",
+    "minTextPx": 11,
+    "requiredTextPx": 6,
+    "deadWidthPct": 2
+  },
+  {
+    "fixture": "tall-12lane",
+    "build": "base",
+    "validate": "pass",
+    "readerFit": null,
+    "viewBox": "768 1644",
+    "visualCheck": "fail",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 3029,
+        "innerHeight": 900,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1346,
+        "readerWidth": 1376,
+        "deadWidthPct": 2
+      },
+      "1600x1000": {
+        "scrollHeight": 3242,
+        "innerHeight": 1000,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "1920x1080": {
+        "scrollHeight": 3242,
+        "innerHeight": 1080,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "2048x1320": {
+        "scrollHeight": 3233,
+        "innerHeight": 1320,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1390,
+        "readerWidth": 1440,
+        "deadWidthPct": 3
+      }
+    },
+    "scrollHeight": 3029,
+    "innerHeight": 900,
+    "disposition": "unexpected-overflow",
+    "minTextPx": 11,
+    "requiredTextPx": 6,
+    "deadWidthPct": 2
+  },
+  {
+    "fixture": "tall-16lane",
+    "build": "base",
+    "validate": "pass",
+    "readerFit": null,
+    "viewBox": "768 2140",
+    "visualCheck": "fail",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 3899,
+        "innerHeight": 900,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1346,
+        "readerWidth": 1376,
+        "deadWidthPct": 2
+      },
+      "1600x1000": {
+        "scrollHeight": 4153,
+        "innerHeight": 1000,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "1920x1080": {
+        "scrollHeight": 4153,
+        "innerHeight": 1080,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1410,
+        "readerWidth": 1440,
+        "deadWidthPct": 2
+      },
+      "2048x1320": {
+        "scrollHeight": 4131,
+        "innerHeight": 1320,
+        "disposition": "unexpected-overflow",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1390,
+        "readerWidth": 1440,
+        "deadWidthPct": 3
+      }
+    },
+    "scrollHeight": 3899,
+    "innerHeight": 900,
+    "disposition": "unexpected-overflow",
+    "minTextPx": 11,
+    "requiredTextPx": 6,
+    "deadWidthPct": 2
+  }
+]

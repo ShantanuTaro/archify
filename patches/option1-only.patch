@@ -1,0 +1,13 @@
+diff --git a/archify/renderers/workflow/workflow-compiler.mjs b/archify/renderers/workflow/workflow-compiler.mjs
+index b3b3b42..ae592db 100644
+--- a/archify/renderers/workflow/workflow-compiler.mjs
++++ b/archify/renderers/workflow/workflow-compiler.mjs
+@@ -4753,8 +4753,6 @@ function renderLegend() {
+ function renderSvg() {
+   const readerFit = workflow.schema_version === 2
+     && !workflow.meta?.viewBox
+-    && hasVerticalStack(workflow)
+-    && asArray(layout.laneHeights).some((height) => height > 104)
+     ? ' data-reader-fit="intrinsic-height"'
+     : '';
+   const contract = workflow.schema_version === 2 ? ' data-layout-contract="readable-v2"' : '';

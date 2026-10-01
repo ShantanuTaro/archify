@@ -1,0 +1,83 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "short-3lane",
+    "output": "short-3lane.html"
+  },
+  "lanes": [
+    {
+      "id": "l0",
+      "label": "Lane 0: a reasonably descriptive swimlane name"
+    },
+    {
+      "id": "l1",
+      "label": "Lane 1: a reasonably descriptive swimlane name"
+    },
+    {
+      "id": "l2",
+      "label": "Lane 2: a reasonably descriptive swimlane name"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n0_0",
+      "lane": "l0",
+      "col": 0,
+      "type": "frontend",
+      "label": "Step 0-0"
+    },
+    {
+      "id": "n0_2",
+      "lane": "l0",
+      "col": 2,
+      "type": "backend",
+      "label": "Step 0-2"
+    },
+    {
+      "id": "n1_0",
+      "lane": "l1",
+      "col": 0,
+      "type": "frontend",
+      "label": "Step 1-0"
+    },
+    {
+      "id": "n1_2",
+      "lane": "l1",
+      "col": 2,
+      "type": "backend",
+      "label": "Step 1-2"
+    },
+    {
+      "id": "n2_0",
+      "lane": "l2",
+      "col": 0,
+      "type": "frontend",
+      "label": "Step 2-0"
+    },
+    {
+      "id": "n2_2",
+      "lane": "l2",
+      "col": 2,
+      "type": "backend",
+      "label": "Step 2-2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "from": "n0_0",
+      "to": "n0_2"
+    },
+    {
+      "id": "e1",
+      "from": "n1_0",
+      "to": "n1_2"
+    },
+    {
+      "id": "e2",
+      "from": "n2_0",
+      "to": "n2_2"
+    }
+  ]
+}

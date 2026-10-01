@@ -1,0 +1,362 @@
+[
+  {
+    "fixture": "short-3lane",
+    "build": "patched",
+    "validate": "pass",
+    "readerFit": "intrinsic-height",
+    "viewBox": "768 528",
+    "visualCheck": "pass",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 900,
+        "innerHeight": 900,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1085,
+        "readerWidth": 1115,
+        "deadWidthPct": 3
+      },
+      "1600x1000": {
+        "scrollHeight": 1000,
+        "innerHeight": 1000,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1135,
+        "readerWidth": 1165,
+        "deadWidthPct": 3
+      },
+      "1920x1080": {
+        "scrollHeight": 1080,
+        "innerHeight": 1080,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1251,
+        "readerWidth": 1281,
+        "deadWidthPct": 2
+      },
+      "2048x1320": {
+        "scrollHeight": 1320,
+        "innerHeight": 1320,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 1574,
+        "readerWidth": 1624,
+        "deadWidthPct": 3
+      }
+    },
+    "scrollHeight": 900,
+    "innerHeight": 900,
+    "disposition": "contained",
+    "minTextPx": 11,
+    "requiredTextPx": 6,
+    "deadWidthPct": 3
+  },
+  {
+    "fixture": "tall-6lane",
+    "build": "patched",
+    "validate": "pass",
+    "readerFit": "intrinsic-height",
+    "viewBox": "768 900",
+    "visualCheck": "pass",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 900,
+        "innerHeight": 900,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 9.123697916666668,
+        "requiredTextPx": 6,
+        "diagramWidth": 637,
+        "readerWidth": 960,
+        "deadWidthPct": 34
+      },
+      "1600x1000": {
+        "scrollHeight": 1000,
+        "innerHeight": 1000,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 9.5390625,
+        "requiredTextPx": 6,
+        "diagramWidth": 666,
+        "readerWidth": 960,
+        "deadWidthPct": 31
+      },
+      "1920x1080": {
+        "scrollHeight": 1080,
+        "innerHeight": 1080,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 10.513020833333332,
+        "requiredTextPx": 6,
+        "diagramWidth": 734,
+        "readerWidth": 960,
+        "deadWidthPct": 24
+      },
+      "2048x1320": {
+        "scrollHeight": 1320,
+        "innerHeight": 1320,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 923,
+        "readerWidth": 973,
+        "deadWidthPct": 5
+      }
+    },
+    "scrollHeight": 900,
+    "innerHeight": 900,
+    "disposition": "contained",
+    "minTextPx": 9.123697916666668,
+    "requiredTextPx": 6,
+    "deadWidthPct": 34
+  },
+  {
+    "fixture": "tall-6lane-cards",
+    "build": "patched",
+    "validate": "pass",
+    "readerFit": "intrinsic-height",
+    "viewBox": "768 900",
+    "visualCheck": "pass",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 900,
+        "innerHeight": 900,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 9.123697916666668,
+        "requiredTextPx": 6,
+        "diagramWidth": 637,
+        "readerWidth": 960,
+        "deadWidthPct": 34
+      },
+      "1600x1000": {
+        "scrollHeight": 1000,
+        "innerHeight": 1000,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 9.5390625,
+        "requiredTextPx": 6,
+        "diagramWidth": 666,
+        "readerWidth": 960,
+        "deadWidthPct": 31
+      },
+      "1920x1080": {
+        "scrollHeight": 1080,
+        "innerHeight": 1080,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 10.513020833333332,
+        "requiredTextPx": 6,
+        "diagramWidth": 734,
+        "readerWidth": 960,
+        "deadWidthPct": 24
+      },
+      "2048x1320": {
+        "scrollHeight": 1320,
+        "innerHeight": 1320,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 11,
+        "requiredTextPx": 6,
+        "diagramWidth": 923,
+        "readerWidth": 973,
+        "deadWidthPct": 5
+      }
+    },
+    "scrollHeight": 900,
+    "innerHeight": 900,
+    "disposition": "contained",
+    "minTextPx": 9.123697916666668,
+    "requiredTextPx": 6,
+    "deadWidthPct": 34
+  },
+  {
+    "fixture": "tall-10lane",
+    "build": "patched",
+    "validate": "pass",
+    "readerFit": "intrinsic-height",
+    "viewBox": "768 1396",
+    "visualCheck": "pass",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 904,
+        "innerHeight": 900,
+        "disposition": "readable-vertical-scroll",
+        "verticalScrollAccepted": true,
+        "minTextPx": 6.001302083333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 419,
+        "readerWidth": 960,
+        "deadWidthPct": 56
+      },
+      "1600x1000": {
+        "scrollHeight": 1000,
+        "innerHeight": 1000,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 6.14453125,
+        "requiredTextPx": 6,
+        "diagramWidth": 429,
+        "readerWidth": 960,
+        "deadWidthPct": 55
+      },
+      "1920x1080": {
+        "scrollHeight": 1080,
+        "innerHeight": 1080,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 6.774739583333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 473,
+        "readerWidth": 960,
+        "deadWidthPct": 51
+      },
+      "2048x1320": {
+        "scrollHeight": 1320,
+        "innerHeight": 1320,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 8.522135416666668,
+        "requiredTextPx": 6,
+        "diagramWidth": 595,
+        "readerWidth": 960,
+        "deadWidthPct": 38
+      }
+    },
+    "scrollHeight": 904,
+    "innerHeight": 900,
+    "disposition": "readable-vertical-scroll",
+    "minTextPx": 6.001302083333333,
+    "requiredTextPx": 6,
+    "deadWidthPct": 56
+  },
+  {
+    "fixture": "tall-12lane",
+    "build": "patched",
+    "validate": "pass",
+    "readerFit": "intrinsic-height",
+    "viewBox": "768 1644",
+    "visualCheck": "pass",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 1039,
+        "innerHeight": 900,
+        "disposition": "readable-vertical-scroll",
+        "verticalScrollAccepted": true,
+        "minTextPx": 6.001302083333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 419,
+        "readerWidth": 960,
+        "deadWidthPct": 56
+      },
+      "1600x1000": {
+        "scrollHeight": 1105,
+        "innerHeight": 1000,
+        "disposition": "readable-vertical-scroll",
+        "verticalScrollAccepted": true,
+        "minTextPx": 6.001302083333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 419,
+        "readerWidth": 960,
+        "deadWidthPct": 56
+      },
+      "1920x1080": {
+        "scrollHeight": 1105,
+        "innerHeight": 1080,
+        "disposition": "readable-vertical-scroll",
+        "verticalScrollAccepted": true,
+        "minTextPx": 6.001302083333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 419,
+        "readerWidth": 960,
+        "deadWidthPct": 56
+      },
+      "2048x1320": {
+        "scrollHeight": 1320,
+        "innerHeight": 1320,
+        "disposition": "contained",
+        "verticalScrollAccepted": false,
+        "minTextPx": 7.233072916666667,
+        "requiredTextPx": 6,
+        "diagramWidth": 505,
+        "readerWidth": 960,
+        "deadWidthPct": 47
+      }
+    },
+    "scrollHeight": 1039,
+    "innerHeight": 900,
+    "disposition": "readable-vertical-scroll",
+    "minTextPx": 6.001302083333333,
+    "requiredTextPx": 6,
+    "deadWidthPct": 56
+  },
+  {
+    "fixture": "tall-16lane",
+    "build": "patched",
+    "validate": "pass",
+    "readerFit": "intrinsic-height",
+    "viewBox": "768 2140",
+    "visualCheck": "pass",
+    "viewports": {
+      "1440x900": {
+        "scrollHeight": 1311,
+        "innerHeight": 900,
+        "disposition": "readable-vertical-scroll",
+        "verticalScrollAccepted": true,
+        "minTextPx": 6.001302083333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 419,
+        "readerWidth": 960,
+        "deadWidthPct": 56
+      },
+      "1600x1000": {
+        "scrollHeight": 1377,
+        "innerHeight": 1000,
+        "disposition": "readable-vertical-scroll",
+        "verticalScrollAccepted": true,
+        "minTextPx": 6.001302083333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 419,
+        "readerWidth": 960,
+        "deadWidthPct": 56
+      },
+      "1920x1080": {
+        "scrollHeight": 1377,
+        "innerHeight": 1080,
+        "disposition": "readable-vertical-scroll",
+        "verticalScrollAccepted": true,
+        "minTextPx": 6.001302083333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 419,
+        "readerWidth": 960,
+        "deadWidthPct": 56
+      },
+      "2048x1320": {
+        "scrollHeight": 1395,
+        "innerHeight": 1320,
+        "disposition": "readable-vertical-scroll",
+        "verticalScrollAccepted": true,
+        "minTextPx": 6.001302083333333,
+        "requiredTextPx": 6,
+        "diagramWidth": 419,
+        "readerWidth": 960,
+        "deadWidthPct": 56
+      }
+    },
+    "scrollHeight": 1311,
+    "innerHeight": 900,
+    "disposition": "readable-vertical-scroll",
+    "minTextPx": 6.001302083333333,
+    "requiredTextPx": 6,
+    "deadWidthPct": 56
+  }
+]
